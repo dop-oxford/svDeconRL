@@ -1,7 +1,7 @@
 # svDeconRL
 Free Spatially-Variant Deconvolution based on the Richardson-Lucy algorithm with total variation regularisation
 
-A publication accompanying the code has been published in [https://www.osapublishing.org/DirectPDFAccess/DB8FF5B0-388C-4989-974FCCEEF50858D8_433935/boe-11-8-4759.pdf?da=1&id=433935&seq=0&mobile=no](link) (open access)\[1\]:
+A publication accompanying the code has been published in [BOEx](https://www.osapublishing.org/DirectPDFAccess/DB8FF5B0-388C-4989-974FCCEEF50858D8_433935/boe-11-8-4759.pdf?da=1&id=433935&seq=0&mobile=no) (open access)\[1\]:
 
 ```
 Raphaël Turcotte, Eusebiu Sutu, Carla C. Schmidt, Nigel J. Emptage, Martin J. Booth (2020).
