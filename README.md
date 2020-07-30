@@ -4,9 +4,9 @@ Free Spatially-Variant Deconvolution based on the Richardson-Lucy algorithm with
 A publication accompanying the code has been published in [BOEx](https://www.osapublishing.org/DirectPDFAccess/DB8FF5B0-388C-4989-974FCCEEF50858D8_433935/boe-11-8-4759.pdf?da=1&id=433935&seq=0&mobile=no) (open access)\[1\]:
 
 ```
-Raphaël Turcotte, Eusebiu Sutu, Carla C. Schmidt, Nigel J. Emptage, Martin J. Booth (2020).
+Raphaël Turcotte, Eusebiu Sutu, Carla C. Schmidt, Nigel J. Emptage, Martin J. Booth.
 "Deconvolution for multimode fiber imaging: modeling of spatially variant PSF",
-Biomedical Optics Express 11 (8), 4759-4771 doi: 10.1364/BOE.399983
+Biomedical Optics Express 2020:11(8);4759-4771. DOI: 10.1364/BOE.399983
 ```
 The repository contains the MATLAB codes requires to deconvolve a 2D image acquired with a system having a spatially variant point response. The deconvolution is based on a modified Richardson-Lucy algorithm with total variation regularisation to account for the spatially variant point response. Sample datasets are also provided.
 
